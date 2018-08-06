@@ -1,0 +1,1 @@
+# simple_project_graphql_flickr
